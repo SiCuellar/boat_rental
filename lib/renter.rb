@@ -5,8 +5,4 @@ class Renter
     @name = name
     @credit_card_number = card_number
   end
-
-
-
-
 end
