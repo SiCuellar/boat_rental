@@ -35,7 +35,9 @@ class Dock
 
   def return(boat)
     boats = @dock_renters.values.flatten
-    new_boats = boats.delete(boat)
-    
+    new_boats =boats.delete(boat)
+
   end
 end
+
+# not keeping it dry, no time to refactor 
