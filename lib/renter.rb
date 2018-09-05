@@ -6,4 +6,7 @@ class Renter
     @credit_card_number = card_number
   end
 
+
+
+
 end
